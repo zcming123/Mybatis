@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\拉钩教育-Java工程师高薪训练营 5 期\01 第一阶段 开源框架源码剖析\01 持久层框架设计实现及MyBatis源码分析\02 资料下载\mybatis-2021\mybatis相关代码\mybatis_quickStarter\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -1,0 +1,3 @@
+com\lagou\dao\IUserDao.class
+com\lagou\pojo\User.class
+com\lagou\test\MybatisTest.class
