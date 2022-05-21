@@ -1,0 +1,10 @@
+com\lagou\mapper\IOrderMapper.class
+com\lagou\test\CacheTest.class
+com\lagou\mapper\IUserMapper.class
+com\lagou\pojo\User.class
+com\lagou\test\MybatisTest.class
+com\lagou\pojo\Role.class
+com\lagou\mapper\IRoleMapper.class
+com\lagou\mapper\UserMapper.class
+com\lagou\plugin\MyPlugin.class
+com\lagou\pojo\Order.class
