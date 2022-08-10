@@ -7,3 +7,6 @@ mybatis_multitable 和 mybatis_quickStarter
 
 mybatis-3.zip
 Mybatis源码，里面有大量的源码注释，每个重要的类都有注释。含数据库SQL，测试demo。配合资料：https://www.yuque.com/zcming123/qwcs2w/dd8beg
+
+
+测试用例有些是不通过的，是因为相关的代码被我注释掉了。或者数据库有数据重复。改改就好了。
