@@ -40,7 +40,7 @@ public class MybatisTest {
         User user = new User();
         user.setId(6);
         user.setUsername("tom");
-        sqlSession.insert("user.saveUser",user);
+        sqlSession.insert("com.lagou.dao.IUserDao.saveUser",user);
 
 
         sqlSession.close();
@@ -55,7 +55,7 @@ public class MybatisTest {
         User user = new User();
         user.setId(4);
         user.setUsername("lucy");
-        sqlSession.update("user.updateUser",user);
+        sqlSession.update("com.lagou.dao.IUserDao.updateUser",user);
         sqlSession.commit();
 
         sqlSession.close();
