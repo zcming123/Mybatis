@@ -1,6 +1,10 @@
 # Mybatis
 学习Mybatis过程中所用到过的Demo、语雀的学习笔记、学习资料。Demo都是我本地调通后，才放上来的。
 
+design_pattern
+构建者模式、代理模式、简单工厂模式的demo
+配套语雀：https://www.yuque.com/zcming123/qwcs2w/iq4gfl
+
 mybatis_multitable 和 mybatis_quickStarter
 这两个项目是
 对应语雀MyBatis基础回顾及高级应用章节的项目（https://www.yuque.com/zcming123/qwcs2w/ks9uv1）
